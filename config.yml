@@ -1,6 +1,6 @@
 baseURL: https://www.abflex.kr
 languageCode: ko-kr
-title: 에이비플렉스
+title: ABFLEX
 theme: "PaperMod"
 
 params:
